@@ -7,7 +7,5 @@ function people()
     return{...nome,...hobbi};
 }
 
-console.log (people().hobbies);
-
 module.exports = people ;
 
